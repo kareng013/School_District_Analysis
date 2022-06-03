@@ -60,15 +60,14 @@ Thomas High School performs relatively well, despite the academic dishonesty, co
 
 ### Math and reading scores by grade
 
-Comparing the new resuls below with the old, it's visible that 
-
+ 
 By removing the math and reading scores from the 9th grade at Thomas High School, overall there is not a comparible change due to the similar scores across all schools from grades 9-12. 
 
-![Old_Scores](https://github.com/kareng013/School_District_Analysis/blob/main/Original%20Scores.png)
+![Reading_Scores](https://github.com/kareng013/School_District_Analysis/blob/main/Reading%20Score.png)
 
 **Image 7: Original Math(left) and Reading(Right) Scores**
 
-![Math_Score](https://github.com/kareng013/School_District_Analysis/blob/main/New%20Scores.png)
+![Math_Score](https://github.com/kareng013/School_District_Analysis/blob/main/Math%20Score.png)
 
 **Image 8: New Math(left) and Reading(Right) Scores**
 
