@@ -11,7 +11,7 @@ The purpose of this analysis is to rexamine the school district data for results
 
 The District Summary as displayed in Images 1 and 2 below has the following differences between the two data sets:
 - Average math score decreased by 0.1 for total students
-- Average reading score remaind the same at 81.9
+- Average reading score remained the same at 81.9
 - The percentage of students passing math decreased by 0.2%
 - The percentage of students passing reading decreased by 0.1%
 - Overall passing rate went down by 0.3%
