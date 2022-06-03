@@ -16,7 +16,7 @@ The District Summary as displayed in Images 1 and 2 below has the following diff
 - The percentage of students passing reading decreased by 0.1%
 - Overall passing rate went down by 0.3%
 
-![Old_District](Resources/Old%20District%20Summary.png)
+![Old_District](C:\Users\Karen\OneDrive\Desktop\UFT Data Analytics\Module 4 - Pandas and Jupyter Notebook\School_District_Analysis\resources\Old District Summary.png)
 **Image 1: Old District Summary**
 
 ![New_District](Resources/New%20District%20Summary.png)
